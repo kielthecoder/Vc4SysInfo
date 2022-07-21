@@ -1,0 +1,10 @@
+# VisualStudio files
+.vs/
+bin/
+obj/
+packages/
+
+# VT Pro-e files
+*.ASV
+*.hash
+*.c3prj/
